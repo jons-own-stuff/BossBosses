@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bossbosses",
+  "name": "Boss Bosses",
+  "description": "They're really boss. They'll always be better than you.",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["dignition"],
+  "credits": "The Forge and FML guys, for making this example. That's right. I used the default credits text.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

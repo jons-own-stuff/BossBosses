@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "bossbosses:blocks/unusual_dirt_block"
+   }
+}
